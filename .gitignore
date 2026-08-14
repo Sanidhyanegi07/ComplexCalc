@@ -1,0 +1,49 @@
+# CMake
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+Makefile
+
+# Qt generated files
+*.moc
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+*.qm
+
+# Compiled files
+*.exe
+*.dll
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.pdb
+
+# Qt Creator
+*.user
+*.user.*
+*.creator.user
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+*.suo
+*.vcxproj.user
+
+# IDE / build output
+out/
+bin/
+debug/
+release/
+
+# Operating system files
+.DS_Store
+Thumbs.db
